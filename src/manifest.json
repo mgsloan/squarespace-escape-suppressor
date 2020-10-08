@@ -1,0 +1,20 @@
+{
+  "name": "Squarespace Escape Suppressor",
+  "short_name": "Squarespace Escape Suppresso",
+  "author": "Michael Sloan",
+  "description": "Works around bizarre Squarespace site default of prompting for login when you press escape.",
+  "version": "1",
+  "homepage_url": "https://github.com/mgsloan/squarespace-escape-suppressor",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["squarespace-escape-suppressor.js"],
+      "all_frames": true
+    }
+  ],
+  "icons": {
+    "128": "icon128.png"
+  },
+  "permissions": [],
+  "manifest_version": 2
+}

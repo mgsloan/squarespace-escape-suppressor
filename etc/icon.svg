@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg6"
+   sodipodi:docname="icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="icon128.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2160"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="3.272102"
+     inkscape:cx="-144.2546"
+     inkscape:cy="102"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g4"
+     transform="translate(0,26)">
+    <path
+       d="m 162.93102,40.669237 c -4.82301,-4.823016 -12.64377,-4.823016 -17.46423,0 L 66.870066,119.26852 c -9.651152,9.64347 -25.287554,9.64347 -34.931026,0 -9.653711,-9.64603 -9.653711,-25.28499 0,-34.936142 L 109.02281,7.2486038 c -9.646027,-9.6485918 -25.287549,-9.6485918 -34.93358,0 L 14.467128,66.868146 c -19.2895039,19.294623 -19.2895039,50.569984 0,69.867174 19.294623,19.29462 50.569987,19.29462 69.86461,0 L 162.93102,58.136029 c 4.82046,-4.823016 4.82046,-12.643777 0,-17.466792 z m 26.19891,-26.196349 c -19.29462,-19.2971839 -50.56998,-19.2971839 -69.86461,0 L 40.668597,93.067055 c -4.820456,4.820456 -4.820456,12.646335 0,17.466795 4.823016,4.82301 12.641216,4.82301 17.464232,0 L 136.73468,31.93968 c 9.64603,-9.648592 25.28243,-9.648592 34.9259,0 4.82814,4.820456 12.64634,4.820456 17.46935,0 4.82302,-4.828136 4.82302,-12.643776 0,-17.466792 z m 26.20147,78.594167 c -4.82301,-4.817896 -12.64633,-4.817896 -17.46935,0 l -78.59673,78.596725 c -9.64603,9.64603 -25.28755,9.64603 -34.933582,0 -4.820456,-4.82045 -12.638656,-4.82045 -17.461672,0 -4.830696,4.82558 -4.830696,12.64634 0,17.46423 19.286943,19.29463 50.569984,19.29463 69.864614,0 l 78.59672,-78.59416 c 4.82046,-4.82046 4.82046,-12.646339 0,-17.466795 z m 26.20147,-26.196349 c -19.29462,-19.292064 -50.57511,-19.292064 -69.86461,0 L 93.066415,145.46999 c -4.823016,4.8179 -4.823016,12.64378 0,17.46423 4.825576,4.82558 12.646335,4.82558 17.466795,0 l 78.59672,-78.596722 c 9.64348,-9.648591 25.28756,-9.648591 34.93103,0 9.64603,9.646032 9.64603,25.284992 0,34.931022 l -77.08378,77.08634 c 9.64604,9.64347 25.27988,9.64347 34.93359,0 l 59.6221,-59.61954 c 19.28951,-19.29719 19.28951,-50.572551 0,-69.864614 z"
+       id="path2"
+       inkscape:connector-curvature="0"
+       style="fill:#1a1918" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.33332825px;line-height:1.25;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#606060;stroke-opacity:1;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;"
+     x="-12.018608"
+     y="177.31792"
+     id="text824"><tspan
+       sodipodi:role="line"
+       id="tspan822"
+       x="-12.018608"
+       y="177.31792"
+       style="-inkscape-font-specification:'Bitstream Vera Sans Mono Bold';font-family:'Bitstream Vera Sans Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#ffffff;fill-opacity:1;stroke:#606060;stroke-opacity:1;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;">ESC</tspan></text>
+</svg>
