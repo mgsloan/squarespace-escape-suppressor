@@ -1,7 +1,7 @@
 # Squarespace Escape Suppressor
 
-Browser extension to work around bizarre Squarespace site default of
-prompting for login when you press escape.
+Browser extension which disables Squarespace site's behavior of
+redirecting to login when Escape key is pressed.
 
 The extension only suppresses escape for Squarespace sites, when no
 input is focused. It detects whether the page is a Squarespace site
