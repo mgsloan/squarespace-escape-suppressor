@@ -18,7 +18,8 @@ function isSquareSpaceSite() {
 }
 
 if (isSquareSpaceSite()) {
-  console.log('Squarespace site detected, installing escape suppressor.');
+  console.log('squarespace-escape-suppressor:',
+              'Squarespace site detected, installing escape suppressor.');
   document.addEventListener('keyup', (ev) => {
     if (ev.key === 'Escape') {
       const element = ev.target;
