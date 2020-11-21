@@ -1,17 +1,13 @@
 function isSquareSpaceSite() {
-  // A quick check which will rule out most non-squarespace sites.
-  if (!document.body.hasAttribute('data-controllers-bound')) {
-    return false;
-  }
-
-  // A more definitive check.
-  const scriptRegex = new RegExp('^https://static[^.]*.squarespace.com/.*site-bundle.js$');
-  for (const script of document.getElementsByTagName('script')) {
-    if (script.hasAttribute('src')) {
-      console.log('checking', script.src);
-      if (scriptRegex.test(script.src)) {
-        return true;
-      }
+  const headChildren = document.head.childNodes;
+  for (let i = 0; i < 10; i++) {
+    if (i >= headChildren.length) {
+      return false;
+    }
+    const el = headChildren[i];
+    if (el.nodeType === Node.COMMENT_NODE &&
+        el.data === ' This is Squarespace. ') {
+      return true;
     }
   }
   return false;
