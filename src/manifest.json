@@ -3,7 +3,7 @@
   "short_name": "Squarespace Escape Suppresso",
   "author": "Michael Sloan",
   "description": "Disables Squarespace site's behavior of redirecting to login when Escape key is pressed.",
-  "version": "2",
+  "version": "3",
   "homepage_url": "https://github.com/mgsloan/squarespace-escape-suppressor",
   "content_scripts": [
     {
