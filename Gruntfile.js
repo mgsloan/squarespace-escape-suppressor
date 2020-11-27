@@ -17,7 +17,7 @@ module.exports = function(grunt) {
       },
       extensions: {
         "squarespace-escape-suppressor": {
-          appID: "FIXME",
+          appID: "ecbamndhnebdcfmidendannaficioean",
           zip: 'squarespace-escape-suppressor.zip'
         }
       }
