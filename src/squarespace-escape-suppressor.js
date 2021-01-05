@@ -1,6 +1,6 @@
 function isSquareSpaceSite() {
   const headChildren = document.head.childNodes;
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < 30; i++) {
     if (i >= headChildren.length) {
       return false;
     }
