@@ -1,5 +1,11 @@
 # Squarespace Escape Suppressor changelog
 
+## Version 5
+
+* No user-facing changes. Sets `content_security_policy` in extension
+  manifest.
+
+
 ## Version 4
 
 * Another improvement to the heuristic determing if a page is a
