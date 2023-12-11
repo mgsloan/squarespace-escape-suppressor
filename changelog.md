@@ -1,5 +1,9 @@
 # Squarespace Escape Suppressor changelog
 
+## Version 6
+
+* Updates to extension manifest v3.
+
 ## Version 5
 
 * No user-facing changes. Sets `content_security_policy` in extension
